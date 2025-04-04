@@ -1,14 +1,14 @@
 # Project Leetcode
 Leetcode tutorial in rust
 
-## extension #region folding for VS Code
+## Extension #region folding for VS Code
 
 ```
 The extension also installs a command to wrap a region comment around the current selection.
 
     regionfolder.wrapWithRegion (Ctrl+M Ctrl+R)
 ```
-## example #region
+## Example #region
 ```
   /* #region two sum */   
     pub fn two_sum_bruteforce(nums: Vec<i32>, target: i32) -> Vec<i32> {
